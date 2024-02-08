@@ -1,0 +1,5 @@
+Prefix sum technique computes range sum queries in constant time over a fixed 1D array.
+
+Range sum queries are two types:
+1. Array is fixed
+2. Array is not fixed. value can be updated . Here we use segment tree.
