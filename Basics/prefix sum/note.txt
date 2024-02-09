@@ -3,3 +3,11 @@ Prefix sum technique computes range sum queries in constant time over a fixed 1D
 Range sum queries are two types:
 1. Array is fixed
 2. Array is not fixed. value can be updated . Here we use segment tree.
+
+
+Two pointer technique: Iterating two pointers across an array to search for a pair of indices satisfying 
+                    some condition in linear time. Usually two pointer technique works in a sorted array.
+
+ex: find two numbers whose sum is k
+    find pairs from array whose product is k, whose difference is 0. 
+
